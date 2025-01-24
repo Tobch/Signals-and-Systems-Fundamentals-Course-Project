@@ -1,4 +1,4 @@
-3 Useful Matlab / GNU-Octave Commands:
+ Useful Matlab / GNU-Octave Commands:
 1. buttord, butter
 2. zp2sos, sosfilt
 3. freqz
